@@ -1,4 +1,4 @@
-# SB-Privacy
+# DI-Privacy
 
 Bots made by Aarya do not store any information on users or servers.
 

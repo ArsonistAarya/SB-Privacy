@@ -1,5 +1,5 @@
 # DI-Privacy
 
-Bots made by Aarya do not store any information on users or servers.
+ModBot does not store any information on users or servers.
 
-Contact us at rosebotprivacy@gmail.com if you have any further concerns
+Contact me at Ivory#2965 on Discord if you have any further concerns.
